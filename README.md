@@ -1,4 +1,4 @@
 ### Hi there 👋
 
-[![Jhunz Github Stats](https://github-readme-stats.vercel.app/api?username=Jhun260Sloth)](https://github.com/Jhun260Sloth)
+![Jhunz GitHub stats](https://github-readme-stats.vercel.app/api?username=Jhun260Sloth&theme=dark&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jhun260Sloth&layout=compact)](https://github.com/Jhun260Sloth)
