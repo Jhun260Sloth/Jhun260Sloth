@@ -3,6 +3,9 @@
 - Trying to learn new stuff
 - Mostly Interested in Coding, FrontEnd,  API / Servers and UI / Graphic Designing
 
+![Top Langs](https://github-readme-streak-stats.herokuapp.com/?user={Jhun260Sloth}&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jhun260Sloth&layout=compact&theme=dark)
+
 ##### Learning in
 ![sololearn](https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white)
 ![Codecamp](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)
@@ -15,10 +18,6 @@
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![JSON](https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink)
 ![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jhun260Sloth&layout=compact&theme=dark)
-
 
 ##### IDE
 ![VS Stud](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
