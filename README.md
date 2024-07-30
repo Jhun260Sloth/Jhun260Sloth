@@ -1,3 +1,4 @@
 <p align="center">
-  <img src="https://github.com/Jhun260Sloth/Jhun260Sloth/assets/99332717/3d9a100f-f84f-4977-9ebc-741c554e4ded" alt="sleepy-sleeping">
+  <img src="![image](https://github.com/user-attachments/assets/edddca27-9d82-45cc-9f13-938305385c3a)">
 </p>
+
